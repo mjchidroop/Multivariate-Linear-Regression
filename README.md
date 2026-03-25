@@ -19,7 +19,7 @@ Create the linear regression model and fit.
 Perdict the Train data and testing data
 
 ## Program:
-```python
+```py
 import pandas as pd
 from sklearn import linear_model
 df = pd.read_csv("cars.csv")
@@ -39,7 +39,7 @@ Coefficients: [0.00755095 0.00780526]
 Intercept: 79.69471929115939
 Predicted CO2 for the corresponding weight and volume: [114.75968007]
 ```
-### Insert your output
+### output
 <img width="1695" height="487" alt="image" src="https://github.com/user-attachments/assets/daf2148f-7198-4411-bfc7-669eb254456a" />
 
 
