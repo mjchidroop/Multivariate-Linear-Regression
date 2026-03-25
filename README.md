@@ -1,6 +1,6 @@
 # Implementation of Multivariate Linear Regression
-# Devoloped by: Chidroop M J, B.Tech.,AIML.
-# Registered number: 212225240029
+### Devoloped by: Chidroop M J, B.Tech.,AIML.
+### Registered number: 212225240029
 ## Aim
 To write a python program to implement multivariate linear regression and predict the output.
 ## Equipment’s required:
